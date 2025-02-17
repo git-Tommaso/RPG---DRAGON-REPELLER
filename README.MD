@@ -4,7 +4,7 @@ Welcome to **Dragon Repeller**, a simple RPG game where your goal is to defeat t
 
 ## How to Play
 
-You start in the town square with 100 health, 50 gold, and a stick as your weapon. Use the buttons to navigate through different locations, fight monsters, and upgrade your gear.
+You start in the town square with 100 health, 50 gold, and a stick as your weapon. Use the buttons to navigate through different locations, fight monsters, and upgrade your gears.
 
 ### Locations
 
