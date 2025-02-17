@@ -55,4 +55,4 @@ You start in the town square with 100 health, 50 gold, and a stick as your weapo
 
 ## License
 
-This project is licensed under the MIT License.
+This project is licensed under the MIT License and myself.
